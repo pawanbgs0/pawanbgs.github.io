@@ -1,19 +1,20 @@
 ## Pawan's personal website
 
-You can use the [editor on GitHub](https://github.com/pawanbgs0/pawanbgs.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my first repository on github and trying to explore with MLH.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_I don't believe in making a right decisons rather I make every decisions right_
+-Ratan Tata
 
-### Markdown
+### Github
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Let us explore more
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# MLH
+## Github
+### Pawan
 
 - Bulleted
 - List
