@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pawan's personal website
 
 You can use the [editor on GitHub](https://github.com/pawanbgs0/pawanbgs.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
